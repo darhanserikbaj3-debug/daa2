@@ -14,19 +14,19 @@ This file is the report. Fill it in as you go. How to start: `START_HERE.md`. Th
 
 The 13 lines your program prints on your data (`java -cp out Main`):
 
-    Broken: 3
-    Kept: 1
-    Last broken wall: 3
-    MST cost: 31
-    Heaviest broken wall: 17
-    Path length: 2
-    DFS visited: 3
-    Dead ends: 2
-    Zones: 3
-    Largest zone: 2
+    Broken: 71
+    Kept: 56
+    Last broken wall: 96
+    MST cost: 21998
+    Heaviest broken wall: 738
+    Path length: 21
+    DFS visited: 64
+    Dead ends: 23
+    Zones: 9
+    Largest zone: 15
     Is DAG: 0
-    Flow stages: 3
-    Fastest route cost: 9
+    Flow stages: 6
+    Fastest route cost: 22
 
 My maze:
 
